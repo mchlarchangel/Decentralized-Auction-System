@@ -65,7 +65,7 @@ The primary goal of this project is to deepen understanding of Solidity programm
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mchlarchangel/Decentralized-Auction-System.git
+   git clone https://github.com/nnichaelangello/Decentralized-Auction-System.git
    ```
 2. Open `Auction.sol` in Remix IDE.
 3. Ensure the compiler version is set to `v0.4.17`.
